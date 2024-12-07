@@ -1,4 +1,4 @@
-# Pinch_Analysis_SuperTargeting_Software
+# Pinch Analysis SuperTargeting Software
 
 ## Acknowledgments
 This software was completely developed by myself, Rezwan Ahmed, with some help using AI tools such as ChatGPT. This software also depends on an excel sheet provided in Kemp's Book (Pinch Analysis and Process Integration: A User Guide on Process Integration for the Efficient Use of Energy, 2007). Feel free to use the software as desired, and make modifications as you feel fit. Unfortunately, due to copyright issues, I cannot provide that excel sheet.
